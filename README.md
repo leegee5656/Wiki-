@@ -1,6 +1,4 @@
 # Wiki-
-This is my technological experience
-
 
 Servers
 
